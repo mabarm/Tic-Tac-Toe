@@ -44,12 +44,14 @@ function Users({
       <TextInput
         style={styles.input}
         placeholder={UserMessage.EMPTY_NAME1}
+        placeholderTextColor="black"
         value={playerInfo[0].name}
         onChangeText={handleInput1}
       />
       <TextInput
         style={styles.input}
         placeholder={UserMessage.EMPTY_NAME2}
+        placeholderTextColor="black"
         value={playerInfo[1].name}
         onChangeText={handleInput2}
       />
