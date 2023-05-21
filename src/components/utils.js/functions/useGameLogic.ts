@@ -1,5 +1,4 @@
 import {useState, useCallback} from 'react';
-// import {playerInfo} from '../constants/playerInfo';
 import {PlayerInfo} from '../constants/playerInfo';
 import {checkWinner} from './checkWinner';
 import {GameMessages} from '../constants/TextLiterals';
