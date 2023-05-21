@@ -60,20 +60,30 @@ This app is developed using various open-source libraries and resources. The fol
 
 ## Screenshots and Demo of App
 
-![Screenshot_20230521-232146](https://github.com/mabarm/Tic-Tac-Toe/assets/25671335/3fe2c703-0331-42c7-8508-f298ec3830cc)
-![Screenshot_20230521-232200](https://github.com/mabarm/Tic-Tac-Toe/assets/25671335/1480d29c-7cca-40b1-b02e-87c3c34af6f9)
-![Screenshot_20230521-232215](https://github.com/mabarm/Tic-Tac-Toe/assets/25671335/cc9b60b2-a481-4a67-8dea-fefb994d0ae0)
-![Screenshot_20230521-232220](https://github.com/mabarm/Tic-Tac-Toe/assets/25671335/3fc62754-3790-4552-bd14-9e73791d09bc)
-![Screenshot_20230521-232226](https://github.com/mabarm/Tic-Tac-Toe/assets/25671335/9dc7477e-e930-4c9e-9d95-2dd16d42f7dd)
-![Screenshot_20230521-232234](https://github.com/mabarm/Tic-Tac-Toe/assets/25671335/65c79442-df9d-4186-819f-9ef6606a1dc2)
-![Screenshot_20230521-232240](https://github.com/mabarm/Tic-Tac-Toe/assets/25671335/5b757eff-b467-4279-a7f7-f4a8a65aaa32)
-![Screenshot_20230521-232303](https://github.com/mabarm/Tic-Tac-Toe/assets/25671335/006ff995-6541-439c-b2dc-5aec40ab8bcd)
+<img src="[https://your-image-url.type](https://github.com/mabarm/Tic-Tac-Toe/assets/25671335/3fe2c703-0331-42c7-8508-f298ec3830cc)" width="50%" height="50%">
+
+<img src="[https://your-image-url.type](https://github.com/mabarm/Tic-Tac-Toe/assets/25671335/1480d29c-7cca-40b1-b02e-87c3c34af6f9)" width="50%" height="50%">
+
+<img src="[https://your-image-url.type](https://github.com/mabarm/Tic-Tac-Toe/assets/25671335/1480d29c-7cca-40b1-b02e-87c3c34af6f9)" width="50%" height="50%">
+
+<img src="[https://your-image-url.type](https://github.com/mabarm/Tic-Tac-Toe/assets/25671335/1480d29c-7cca-40b1-b02e-87c3c34af6f9)" width="50%" height="50%">
+
+<img src="[https://your-image-url.type](https://github.com/mabarm/Tic-Tac-Toe/assets/25671335/cc9b60b2-a481-4a67-8dea-fefb994d0ae0)" width="50%" height="50%">
+
+<img src="[https://your-image-url.type](https://github.com/mabarm/Tic-Tac-Toe/assets/25671335/3fc62754-3790-4552-bd14-9e73791d09bc)" width="50%" height="50%">
+
+<img src="[https://your-image-url.type](https://github.com/mabarm/Tic-Tac-Toe/assets/25671335/9dc7477e-e930-4c9e-9d95-2dd16d42f7dd)" width="50%" height="50%">
+
+<img src="[https://your-image-url.type](https://github.com/mabarm/Tic-Tac-Toe/assets/25671335/65c79442-df9d-4186-819f-9ef6606a1dc2)" width="50%" height="50%">
+
+<img src="[https://your-image-url.type](https://github.com/mabarm/Tic-Tac-Toe/assets/25671335/5b757eff-b467-4279-a7f7-f4a8a65aaa32)" width="50%" height="50%">
+
+<img src="[https://your-image-url.type](https://github.com/mabarm/Tic-Tac-Toe/assets/25671335/006ff995-6541-439c-b2dc-5aec40ab8bcd)" width="50%" height="50%">
 
 
 https://github.com/mabarm/Tic-Tac-Toe/assets/25671335/5f0f63eb-ab8c-4949-bc4f-1fd955835d4e
 
 1335/d223ac7f-cf9f-49eb-9bbc-32a0436d1e5b)
-
 
 
 ## Conclusion
