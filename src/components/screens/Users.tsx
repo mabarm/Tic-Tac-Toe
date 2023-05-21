@@ -71,6 +71,8 @@ const styles = StyleSheet.create({
     paddingHorizontal: 10 * commonStyles.mpx,
     backgroundColor: 'white',
     marginTop: 20 * commonStyles.mpx,
+    color: 'black',
+    fontWeight: 'bold',
   },
   button: {
     backgroundColor: commonStyles.secondaryColor,
